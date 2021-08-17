@@ -15,4 +15,4 @@ The link below is includes all wireframes for our project.
 
 ### Project Repo Link
 
-https://github.com/LaunchCodeLiftoffProjects/antwan-group-b
+[GitHub Repo for Family Organizer Application](https://github.com/LaunchCodeLiftoffProjects/antwan-group-b)
