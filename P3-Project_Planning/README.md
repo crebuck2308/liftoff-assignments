@@ -7,8 +7,7 @@
 
 The link below is includes all wireframes for our project.
 
-[WireFrames]([Family_Organizer_Wireframe_1.pdf](https://github.com/crebuck2308/liftoff-assignments/files/6996229/Family_Organizer_Wireframe_1.pdf)
-
+[Wireframes](https://github.com/crebuck2308/liftoff-assignments/blob/239ac80a406389e0c6cc1f1340a9e0e14415b9c0/P3-Project_Planning/Family_Organizer_Wireframe_1.pdf)
 
 ### Project Tracker
 
